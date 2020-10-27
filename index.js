@@ -12,6 +12,7 @@ stopBtn = document.querySelector("#btnStop");
 
 let interval = undefined;
 
+
 startBtn.addEventListener("click", (e) =>
   interval
     ? interval
